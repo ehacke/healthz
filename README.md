@@ -1,2 +1,2 @@
 # healthz
-Simple health check service and controller
+Simple health check service
